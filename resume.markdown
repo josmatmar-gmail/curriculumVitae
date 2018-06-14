@@ -56,7 +56,7 @@ josephmatthewmartin@gmail.com | +1.206.883.6184
 
 2018 Technical Writer  
 Aditi / Microsoft \(Redmond,WA\)  
-*   Content / Consultant : Partner + Startup Experience, Cloud + AI, Azure Marketplace Onboarding team \(Microsoft\)  
+*   *Contract / Consultant* : Partner + Startup Experience, Cloud + AI, Azure Marketplace Onboarding team \(Microsoft\)  
     *   Produced content for onboarding offers to the Azure Marketplace using markdown.  
     *   Leveraged PowerShell, Azure Resource Manager API requests, and Azure Portal to deliver concise and
 coherent content.  
@@ -66,7 +66,7 @@ coherent content.
 
 2016 Technical Writer  
 TEKsystems / DaVita \(Redmond, WA\)  
-*   Content / Consultant : Revenue Operations, Team Excelsior \(Davita\)  
+*   *Contract / Consultant* : Revenue Operations, Team Excelsior \(Davita\)  
     *   Produced content for HIPAA-compliant report training based upon Access and SQL databases.  
     *   Translated quality assurance notes and databases for consumption by primary audience \(analysts\).  
     *   Created and deployed guidelines and supporting standards for quality assurance documentation and training.  
@@ -75,7 +75,7 @@ TEKsystems / DaVita \(Redmond, WA\)
 
 2015-2016 Programmer Writer  
 Aquent / Microsoft \(Redmond, WA\)  
-*   Content / Consultant : Managed Services associated with C+E CSI, Unlock Insights \(Microsoft\)  
+*   *Contract / Consultant* : Managed Services associated with C+E CSI, Unlock Insights \(Microsoft\)  
     *   Produced content for REST-like APIs for the Azure Resources Manager \(Resource Manager\) SQL Database using an in-house CMRS \(CAPS\).  
     *   Translated Azure Service Model \(Service Model\) request content into Azure Resource Manager \(Resource Manager\) requests.  
     *   Delivered consistent documentation and test harnesses for peers.  
@@ -83,7 +83,7 @@ Aquent / Microsoft \(Redmond, WA\)
 
 2015 Programmer Writer  
 H10 Capital / Amazon \(Seattle, WA\)  
-*   Content / Consultant : Apps & Games Developer team \(Amazon\)  
+*   *Contract / Consultant* : Apps & Games Developer team \(Amazon\)  
     *   Produced content for RESTful APIs using a CMRS \(Hippo\)  
     *   Delivered RESTful API documentation for high profile content release \(Alexa Voice Service, version 1\).  
     *   Delivered consistent documentation and designed implementation how-to guides for peers and stakeholders.  
@@ -92,7 +92,7 @@ H10 Capital / Amazon \(Seattle, WA\)
 
 2012-2014 Technical Writer  
 Steyer Associates, Inc. / AT&T \(Redmond, WA\)  
-*   Content / Consultant : Content Release Management team \(AT&T\)  
+*   *Contract / Consultant* : Content Release Management team \(AT&T\)  
     *   Produced content for RESTful APIs using a custom XML-schema and a CMRS \(Alfresco\)  
     *   Created and deployed guidelines and supporting standards for the AT&T API Platform.  
     *   Translated service specification content provided by subject matter experts for consumption by primary audience \(long-tail developers to corporate developers\).  
